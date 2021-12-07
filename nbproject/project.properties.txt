@@ -1,0 +1,10 @@
+auxiliary.org-netbeans-modules-javascript-nodejs.run_2e_enabled=false
+auxiliary.org-netbeans-modules-javascript2-editor.jsversion=ECMA7
+browser.run=true
+file.reference.WebDev-public_html=public_html
+file.reference.WebDev-test=test
+files.encoding=UTF-8
+site.root.folder=${file.reference.WebDev-public_html}
+start.file=main.html
+test.folder=${file.reference.WebDev-test}
+web.context.root=/WebDev
